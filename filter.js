@@ -24,7 +24,7 @@
 let array = [
   { 
     name: "Angelina Jolie", 
-    age: 80 
+    age: 80
   },
   { 
     name: "Eric Jones", 
