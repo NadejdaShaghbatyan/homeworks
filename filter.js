@@ -5,6 +5,10 @@ let numbers=[3, 6, 8, 2].filter((arr)=>{
 console.log(numbers)
 
 //2) Given an array of numbers, return a new array that only includes the even numbers.
+let even=[3, 6, 8, 2].filter((x)=>{
+  return x % 2 === 0
+});
+console.log(even)
 
 
 
