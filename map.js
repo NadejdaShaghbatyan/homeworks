@@ -1,8 +1,8 @@
 //1) Make an array of numbers that are doubles of the first array
-[2, 5, 100].map((arr)=>{
-     console.log(arr *2);
+let doubles = [2, 5, 100].map((arr)=>{
+    return arr * 2 ;
 });
-
+console.log(doubles)
 //2) Take an array of numbers and make them strings
 let numbers = [2, 5, 100]
 
