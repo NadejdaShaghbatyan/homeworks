@@ -1,5 +1,8 @@
 //1) Given an array of numbers, return a new array that has only the numbers that are 5 or greater.
-
+let numbers=[3, 6, 8, 2].filter((arr)=>{
+  return arr > 5;
+});
+console.log(numbers)
 
 //2) Given an array of numbers, return a new array that only includes the even numbers.
 
